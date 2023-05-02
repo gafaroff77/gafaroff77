@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gafaroff77/gafaroff77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi tnere!
+### Hi there 👋
 
-My name Hafarov Dmytro.
-I'm currently working on SC IIC on position SA. More precisely t is called as "information technology specialist".
-By facts my job is a coctail from anykey's operation, SA, DBA, electrician and a litlle bit more... ))
-Big number of directions of my job is a curse and blessing at the same time: I cannot deep in any thing but know a more about all.
+My name Hafarov Dmytro.<br>
+I'm currently working on SC IIC on position SA. More precisely t is called as "information technology specialist".<br>
+By facts my job is a coctail from anykey's operation, SA, DBA, electrician and a litlle bit more... ))<br>
+Big number of directions of my job is a curse and blessing at the same time: I cannot deep in any thing but know a more about all.<br><br>
+This profile on GitHub create not for learning on Prometheus DevOps course, but for now uses for it.<br>
